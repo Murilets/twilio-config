@@ -1,0 +1,11 @@
+# Credenciais - NUNCA subir isso
+.env
+
+# Build do .NET
+bin/
+obj/
+
+# Rider / Visual Studio / VS Code
+.idea/
+.vscode/
+*.user
